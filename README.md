@@ -1,0 +1,2 @@
+# SpeeechEmotionRecognition
+SoC Project
